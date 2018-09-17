@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<ClCompile Include="src\ofApp.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\main.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\addons\ofxDatGui-1.2.0\src\core\ofxDatGuiComponent.cpp">
+			<Filter>addons\ofxDatGui-1.2.0\src\core</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\addons\ofxDatGui-1.2.0\src\libs\ofxSmartFont\ofxSmartFont.cpp">
+			<Filter>addons\ofxDatGui-1.2.0\src\libs\ofxSmartFont</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\addons\ofxDatGui-1.2.0\src\ofxDatGui.cpp">
+			<Filter>addons\ofxDatGui-1.2.0\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\addons\ofxGif\src\ofxGif.cpp">
+			<Filter>addons\ofxGif\src</Filter>
+		</ClCompile>
+	</ItemGroup>
+	<ItemGroup>
+		<Filter Include="src">
+			<UniqueIdentifier>{d8376475-7454-4a24-b08a-aac121d3ad6f}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons">
+			<UniqueIdentifier>{71834F65-F3A9-211E-73B8-DC85}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxDatGui-1.2.0">
+			<UniqueIdentifier>{61D0B76B-DEE0-1138-8F21-F6DA}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxDatGui-1.2.0\src">
+			<UniqueIdentifier>{CDF15111-E3E4-0CDF-090F-1024}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxDatGui-1.2.0\src\components">
+			<UniqueIdentifier>{2C206123-3D9A-4B94-75BB-9CC3}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxDatGui-1.2.0\src\core">
+			<UniqueIdentifier>{8A686633-0E2C-B770-5606-17DD}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxDatGui-1.2.0\src\libs">
+			<UniqueIdentifier>{0B7156B5-9582-D6D9-9C89-C57D}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxDatGui-1.2.0\src\libs\ofxSmartFont">
+			<UniqueIdentifier>{EA130BBD-09F4-60FF-10D8-634A}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxDatGui-1.2.0\src\themes">
+			<UniqueIdentifier>{493234F5-52D6-01BE-60E3-C2D6}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxGif">
+			<UniqueIdentifier>{D1712EA0-C6FD-3BD8-C65E-E5D9}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxGif\src">
+			<UniqueIdentifier>{FECF32E4-4CD9-E7EE-0CE0-44E9}</UniqueIdentifier>
+		</Filter>
+	</ItemGroup>
+	<ItemGroup>
+		<ClInclude Include="src\ofApp.h">
+			<Filter>src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\addons\ofxDatGui-1.2.0\src\components\ofxDatGui2dPad.h">
+			<Filter>addons\ofxDatGui-1.2.0\src\components</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\addons\ofxDatGui-1.2.0\src\components\ofxDatGuiButton.h">
+			<Filter>addons\ofxDatGui-1.2.0\src\components</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\addons\ofxDatGui-1.2.0\src\components\ofxDatGuiColorPicker.h">
+			<Filter>addons\ofxDatGui-1.2.0\src\components</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\addons\ofxDatGui-1.2.0\src\components\ofxDatGuiControls.h">
+			<Filter>addons\ofxDatGui-1.2.0\src\components</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\addons\ofxDatGui-1.2.0\src\components\ofxDatGuiFRM.h">
+			<Filter>addons\ofxDatGui-1.2.0\src\components</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\addons\ofxDatGui-1.2.0\src\components\ofxDatGuiGroups.h">
+			<Filter>addons\ofxDatGui-1.2.0\src\components</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\addons\ofxDatGui-1.2.0\src\components\ofxDatGuiLabel.h">
+			<Filter>addons\ofxDatGui-1.2.0\src\components</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\addons\ofxDatGui-1.2.0\src\components\ofxDatGuiMatrix.h">
+			<Filter>addons\ofxDatGui-1.2.0\src\components</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\addons\ofxDatGui-1.2.0\src\components\ofxDatGuiScrollView.h">
+			<Filter>addons\ofxDatGui-1.2.0\src\components</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\addons\ofxDatGui-1.2.0\src\components\ofxDatGuiSlider.h">
+			<Filter>addons\ofxDatGui-1.2.0\src\components</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\addons\ofxDatGui-1.2.0\src\components\ofxDatGuiTextInput.h">
+			<Filter>addons\ofxDatGui-1.2.0\src\components</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\addons\ofxDatGui-1.2.0\src\components\ofxDatGuiTextInputField.h">
+			<Filter>addons\ofxDatGui-1.2.0\src\components</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\addons\ofxDatGui-1.2.0\src\components\ofxDatGuiTimeGraph.h">
+			<Filter>addons\ofxDatGui-1.2.0\src\components</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\addons\ofxDatGui-1.2.0\src\core\ofxDatGuiComponent.h">
+			<Filter>addons\ofxDatGui-1.2.0\src\core</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\addons\ofxDatGui-1.2.0\src\core\ofxDatGuiConstants.h">
+			<Filter>addons\ofxDatGui-1.2.0\src\core</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\addons\ofxDatGui-1.2.0\src\core\ofxDatGuiEvents.h">
+			<Filter>addons\ofxDatGui-1.2.0\src\core</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\addons\ofxDatGui-1.2.0\src\core\ofxDatGuiIntObject.h">
+			<Filter>addons\ofxDatGui-1.2.0\src\core</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\addons\ofxDatGui-1.2.0\src\libs\ofxSmartFont\ofxSmartFont.h">
+			<Filter>addons\ofxDatGui-1.2.0\src\libs\ofxSmartFont</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\addons\ofxDatGui-1.2.0\src\ofxDatGui.h">
+			<Filter>addons\ofxDatGui-1.2.0\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\addons\ofxDatGui-1.2.0\src\themes\ofxDatGuiTheme.h">
+			<Filter>addons\ofxDatGui-1.2.0\src\themes</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\addons\ofxDatGui-1.2.0\src\themes\ofxDatGuiThemes.h">
+			<Filter>addons\ofxDatGui-1.2.0\src\themes</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\addons\ofxGif\src\ofxGif.h">
+			<Filter>addons\ofxGif\src</Filter>
+		</ClInclude>
+	</ItemGroup>
+	<ItemGroup>
+		<ResourceCompile Include="icon.rc" />
+	</ItemGroup>
+</Project>
